@@ -6,4 +6,4 @@ my my
 - Database
 - Programming
 
-U can reach me linkedin.com/in/siwat-sri/
+U can reach me https://www.linkedin.com/in/siwat-sri/
